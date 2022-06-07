@@ -1,20 +1,38 @@
 {
-    "default": {
-        "awscloudformation": {
-            "AuthRoleName": "amplify-vueamplifydev-default-85531-authRole",
-            "UnauthRoleArn": "arn:aws:iam::846058660752:role/amplify-vueamplifydev-default-85531-unauthRole",
-            "AuthRoleArn": "arn:aws:iam::846058660752:role/amplify-vueamplifydev-default-85531-authRole",
-            "Region": "ap-northeast-1",
-            "DeploymentBucketName": "amplify-vueamplifydev-default-85531-deployment",
-            "UnauthRoleName": "amplify-vueamplifydev-default-85531-unauthRole",
-            "StackName": "amplify-vueamplifydev-default-85531",
-            "StackId": "arn:aws:cloudformation:ap-northeast-1:846058660752:stack/amplify-vueamplifydev-default-85531/819c2470-312b-11ea-ab37-065c56f01aee",
-            "AmplifyAppId": "d2xpe2y55gyv8l"
-        },
-        "categories": {
-            "auth": {
-                "vueamplifydev52df5a6b": {}
-            }
-        }
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-notes-dev-223351-authRole",
+      "UnauthRoleArn": "arn:aws:iam::582860425896:role/amplify-notes-dev-223351-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::582860425896:role/amplify-notes-dev-223351-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-notes-dev-223351-deployment",
+      "UnauthRoleName": "amplify-notes-dev-223351-unauthRole",
+      "StackName": "amplify-notes-dev-223351",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:582860425896:stack/amplify-notes-dev-223351/78f94ee0-e666-11ec-9d32-0ecb8f7e60e7",
+      "AmplifyAppId": "d305xxby40q1n6"
+    },
+    "categories": {
+      "auth": {
+        "notes3d2ccd71": {}
+      }
     }
+  },
+  "default": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-vueamplifydev-default-85531-authRole",
+      "UnauthRoleArn": "arn:aws:iam::846058660752:role/amplify-vueamplifydev-default-85531-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::846058660752:role/amplify-vueamplifydev-default-85531-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-vueamplifydev-default-85531-deployment",
+      "UnauthRoleName": "amplify-vueamplifydev-default-85531-unauthRole",
+      "StackName": "amplify-vueamplifydev-default-85531",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:846058660752:stack/amplify-vueamplifydev-default-85531/819c2470-312b-11ea-ab37-065c56f01aee",
+      "AmplifyAppId": "d2xpe2y55gyv8l"
+    },
+    "categories": {
+      "auth": {
+        "vueamplifydev52df5a6b": {}
+      }
+    }
+  }
 }

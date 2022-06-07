@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "notes",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/matsuihidetoshi/sbs/projects/vueamplifydev/amplify/backend/api/notes/schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authnotes3d2ccd71"
+    }
+  }
+}
